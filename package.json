@@ -1,0 +1,22 @@
+{
+  "name": "ideaapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratikbhure2001/ideaapplication.git"
+  },
+  "author": "Pratik bhure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratikbhure2001/ideaapplication/issues"
+  },
+  "homepage": "https://github.com/Pratikbhure2001/ideaapplication#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
